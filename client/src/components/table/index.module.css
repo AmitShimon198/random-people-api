@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header:first-letter {
+    text-transform: uppercase;
+    text-align: center;
+    flex: 1 1 100%;
+}
+
+.header {
+    color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+.table_container {
+    max-height: 700px;
+}
+
+.paper {
+    width: 80%;
+}

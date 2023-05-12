@@ -1,0 +1,63 @@
+.image_large {
+    width: 250px !important;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    transition: box-shadow 0.3s ease-in-out;
+    margin-bottom: 20px;
+}
+
+.name {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold !important;
+    color: #34495e;
+}
+
+.text {
+    margin-top: 4px;
+}
+
+.actions {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.typography {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold !important;
+    color: #34495e;
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+.icon_mode {
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.card {
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.contact {
+    font-family: Arial, sans-serif;
+    color: #333;
+    cursor: pointer;
+}
+
+.contact:hover {
+    cursor: pointer;
+    color: #007BFF;
+    text-decoration: underline;
+}

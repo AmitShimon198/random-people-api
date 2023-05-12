@@ -1,0 +1,16 @@
+.alert {
+    position: relative;
+    display: inline;
+    top: 0px;
+    width: 0px;
+    left: -1000px;
+    height: 0px;
+    transition: all 0.5s ease-in-out !important;
+}
+
+.alert_show {
+    height: initial;
+    width: 20%;
+    top: 0px;
+    left: 0px;
+}
