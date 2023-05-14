@@ -6,7 +6,12 @@
             "statusCode": 200
         },
         {
-            "route": "/peoples/*",
+            "route": "/random",
+            "serve": "/index.html",
+            "statusCode": 200
+        },
+        {
+            "route": "/history",
             "serve": "/index.html",
             "statusCode": 200
         },
