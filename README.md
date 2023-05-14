@@ -49,3 +49,6 @@ npm start
 - GraphQL
 - Apollo Client
 - Material-UI
+
+# Live website example
+- click here: [Random people api](https://purple-beach-0e45a2903.3.azurestaticapps.net)

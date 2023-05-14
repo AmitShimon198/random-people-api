@@ -56,7 +56,7 @@ const Profile: FunctionComponent<ProfileProps> = ({ personId, onBackClick }) => 
             display={!!error}
             onActionClick={resetError}
             severity="error" />
-        <Box width="100%" height="80%"
+        <Box width="100%" height="85%"
             display="flex"
             justifyContent="center"
             alignItems="center"

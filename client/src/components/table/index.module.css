@@ -3,6 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 80%;
 }
 
 .header:first-letter {
@@ -18,9 +19,10 @@
 }
 
 .table_container {
-    max-height: 700px;
+    max-height: 70vh;
 }
 
 .paper {
     width: 80%;
+    margin-bottom: auto;
 }
